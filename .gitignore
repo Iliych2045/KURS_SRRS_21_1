@@ -1,0 +1,17 @@
+.build
+.mbed
+projectfiles
+*.py*
+BUILD
+compile_commands.json
+.clangd
+.cache
+mbed-os
+IRremouteAndButton
+LIS3MDL_my
+QuadDisplayMy
+WiFi_modem_8266
+sMotor
+L3G4200D_my
+TextLCD
+LSM303D_my
